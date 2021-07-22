@@ -1,0 +1,26 @@
+body {
+    background: lightsalmon; 
+}
+
+.categories li, .tags li {
+    list-style: none;
+    display: inline-block;
+    color: white;
+
+}
+
+article {
+    margin-bottom: 1rem;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: white;
+}
